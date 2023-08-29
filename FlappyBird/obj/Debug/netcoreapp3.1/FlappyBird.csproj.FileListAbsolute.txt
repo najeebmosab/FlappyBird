@@ -1,0 +1,17 @@
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.exe
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.deps.json
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.runtimeconfig.json
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.runtimeconfig.dev.json
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.dll
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.pdb
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.Form1.resources
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.Properties.Resources.resources
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.csproj.GenerateResource.cache
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.AssemblyInfoInputs.cache
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.AssemblyInfo.cs
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.dll
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.pdb
+C:\Users\najee\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.genruntimeconfig.cache
